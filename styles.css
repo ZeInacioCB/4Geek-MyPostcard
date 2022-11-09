@@ -1,8 +1,3 @@
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
-
 body {
 	background: black;
 }
@@ -17,6 +12,8 @@ body {
 /* POSTCARD HEADER STYLES */
 .postcard-header {
 	display: flex;
+	margin: 20px 5px;
+	padding-top: 5px;
 }
 
 .postcard-header img {
